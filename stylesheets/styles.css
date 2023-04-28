@@ -9,6 +9,7 @@ body {
     line-height: 1.6;
     scroll-behavior: smooth;
     padding-top: 4rem;
+    padding-bottom: 1rem;
 }
 
 a {
@@ -27,7 +28,22 @@ img {
     height: 20px;
 }
 
+.smallplus {
+    width: 22px;
+    height: 22px;
+}
+
 .medium {
     width: 30px;
     height: 30px;
+}
+
+.large {
+    width: 40px;
+    height: 40px;
+}
+
+.largeplus {
+    width: 100px;
+    height: 100px;
 }

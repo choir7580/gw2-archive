@@ -1,15 +1,19 @@
-.guardian {
+.guardian a {
     color: #4db8ff;
 }
 
-.ranger {
+.ranger a {
     color: #88cc00;
 }
 
-.thief {
+.thief a {
     color: #ff8080;
 }
 
-.elementalist {
+.elementalist a {
     color: #ff5c33;
+}
+
+.item a {
+    color:#ff9933;
 }
