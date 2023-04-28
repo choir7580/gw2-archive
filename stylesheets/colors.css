@@ -1,3 +1,7 @@
+.item a {
+    color:#ff9933;
+}
+
 .guardian a {
     color: #4db8ff;
 }
@@ -14,6 +18,10 @@
     color: #ff5c33;
 }
 
-.item a {
-    color:#ff9933;
+.necromancer a {
+    color: #00cc66;
+}
+
+.revenant a {
+    color: #b3003b;
 }
