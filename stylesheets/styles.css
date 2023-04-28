@@ -1,0 +1,33 @@
+body {
+    font-family: verdana;
+    font-size: 110%;
+    background: #1a1a1a;
+    color: white;
+    margin: 0;
+    /* max-width: 1000px;
+    margin: 0 20%; */
+    line-height: 1.6;
+    scroll-behavior: smooth;
+    padding-top: 4rem;
+}
+
+a {
+    text-decoration: none;
+    background-color: transparent;
+    display: inline-block;
+}
+
+img {
+    vertical-align: middle;
+    padding-bottom: 2px;
+}
+
+.small {
+    width: 20px;
+    height: 20px;
+}
+
+.medium {
+    width: 30px;
+    height: 30px;
+}

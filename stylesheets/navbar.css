@@ -1,0 +1,21 @@
+nav {
+    overflow: hidden;
+    background-color: #262626;
+    padding: 0px 9px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    transition: 0.5s;
+    box-sizing: border-box;
+    /* justify-content: space-between;
+    align-items: center; */
+ }
+  
+nav a {
+    color: white;
+    padding: 14px 18px;
+    font-size: 110%;
+    float: left;
+    /* text-align: center;
+    text-decoration: none; */
+}
