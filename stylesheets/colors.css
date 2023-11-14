@@ -22,6 +22,18 @@
     color: #e6004c;
 }
 
+.warrior a {
+    color: #ffcc00;
+}
+
+.engineer a {
+    color: #ff9933;
+}
+
+.mesmer a {
+    color: #ff66ff;
+}
+
 .item a {
-    color:#ff9933;
+    color:#e67300;
 }
